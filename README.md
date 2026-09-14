@@ -11,10 +11,10 @@ This program uses `Card` and `Deck` classes to manage the player's hand, the dis
 -  Player and enemy decks
 -  Player hand management and card drawing
 -  Card combinations and damage calculations
-  - Spades: Reduces enemy attack
-  - Hearts: Recover cards from the discard pile
-  - Clubs: Doubles damage dealt
-  - Diamonds: Draw cards from draw pile
+    - Spades: Reduces enemy attack
+    - Hearts: Recover cards from the discard pile
+    - Clubs: Doubles damage dealt
+    - Diamonds: Draw cards from draw pile
 - Card abbreviation interpretation
 - Enemy progression (Jacks, Queens, Kings)
 - Health and attack tracking
